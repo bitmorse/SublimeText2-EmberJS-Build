@@ -1,0 +1,5 @@
+{
+  "cmd": ["ember build; open index.html"],
+	"path": "/usr/local/share/npm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin",
+	"shell":"true"
+}
