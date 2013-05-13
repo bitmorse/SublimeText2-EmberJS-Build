@@ -5,7 +5,8 @@ ember.js build system for sublime text 2. requires ember-tools.
 
 Requirements
 -
-- Node.js / NPM 
+- Node.js / npm
+- ember-tools
 - Tested on Mac OS X, should work elsewhere with minor changes
 
 Installation
